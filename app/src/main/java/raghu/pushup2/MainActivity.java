@@ -65,5 +65,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void NewMethod() {
         String name = "raghu";
+        int j = 10;
+        boolean True = false;
     }
 }
