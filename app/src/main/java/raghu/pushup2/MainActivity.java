@@ -50,15 +50,20 @@ public class MainActivity extends AppCompatActivity {
         return super.onOptionsItemSelected(item);
     }
 
-        private void TestUpload(){
+    private void TestUpload() {
 
-        int i = 1+1;
-        int ii = 2+2;
+        int i = 1 + 1;
+        int ii = 2 + 2;
         int iii = i + ii;
 
     }
-    public void PullSDownProject(){
-    int i = 1 + 1;
-    }
+
+    public void PullSDownProject() {
+        int i = 1 + 1;
     }
 
+
+    public void NewMethod() {
+        String name = "raghu";
+    }
+}
